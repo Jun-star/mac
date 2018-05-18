@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>th-1.jpg</string>
+		<key>la3</key>
+		<string>86.60</string>
+		<key>la4</key>
+		<string>市场价：126.60</string>
+		<key>la2</key>
+		<string>      复古圆形金属眼镜框原宿男女玻璃架平光镜太子镜潮.....</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>th-2.jpg</string>
+		<key>la3</key>
+		<string>288.00</string>
+		<key>la4</key>
+		<string>市场价：500.00</string>
+		<key>la2</key>
+		<string>      时尚潮流儿童手表女学生糖果色果冻表清新彩色硅胶女表.....</string>
+	</dict>
+	<dict>
+		<key>iamge</key>
+		<string>th-3.jpg</string>
+		<key>la3</key>
+		<string>28.00</string>
+		<key>la4</key>
+		<string>市场价：36.00</string>
+		<key>la2</key>
+		<string>      欧美潮流 钛钢军牌嘻哈空白项链饰品吊坠 男女身份牌 士兵.......</string>
+	</dict>
+</array>
+</plist>

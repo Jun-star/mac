@@ -1,0 +1,6 @@
+module Pods_cocoapod {
+  umbrella header "Pods-cocoapod-umbrella.h"
+
+  export *
+  module * { export * }
+}

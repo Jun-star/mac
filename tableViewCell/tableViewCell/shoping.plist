@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>th-1.jpg</string>
+		<key>la</key>
+		<string>高科技时尚眼镜 多功能眼镜 男女款平光镜 引领潮流...</string>
+		<key>la-price1</key>
+		<string>￥86.60</string>
+		<key>la-price2</key>
+		<string>市场价：￥126.60</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>th-2.jpg</string>
+		<key>la</key>
+		<string>商务潮流手表 男女款颜色齐全  简约大气耐用型......</string>
+		<key>la-price1</key>
+		<string>￥288.00</string>
+		<key>la-price2</key>
+		<string>市场价：￥500.00</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>th-3.jpg</string>
+		<key>la</key>
+		<string>时尚潮流 手工制作精美项链饰品吊坠 书包钥匙小挂件.....</string>
+		<key>la-price1</key>
+		<string>￥28.00</string>
+		<key>la-price2</key>
+		<string>市场价：￥30.00</string>
+	</dict>
+</array>
+</plist>
