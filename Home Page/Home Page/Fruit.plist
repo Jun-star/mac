@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>timg.jpg</string>
+		<key>images</key>
+		<string>icon_cart.png</string>
+		<key>la1</key>
+		<string>长春湖 越南白心火龙果 火龙果肉白心 新鲜红心水果5斤包邮</string>
+		<key>la2</key>
+		<string>￥480</string>
+		<key>la3</key>
+		<string>￥880</string>
+		<key>la4</key>
+		<string>已售4550</string>
+		<key>la5</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>timg1.jpg</string>
+		<key>images</key>
+		<string>icon_cart.png</string>
+		<key>la1</key>
+		<string>常枫新疆西洲哈密瓜新鲜蜜瓜 甜瓜网纹瓜蛋哥4-5斤</string>
+		<key>la2</key>
+		<string>￥480</string>
+		<key>la3</key>
+		<string>￥880</string>
+		<key>la4</key>
+		<string>已售4550</string>
+		<key>la5</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>timg2.jpg</string>
+		<key>images</key>
+		<string>icon_cart.png</string>
+		<key>la1</key>
+		<string>佳利麦美国进口水果 应季产品 香甜可口</string>
+		<key>la2</key>
+		<string>￥480</string>
+		<key>la3</key>
+		<string>￥880</string>
+		<key>la4</key>
+		<string>已售4550</string>
+		<key>la5</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
